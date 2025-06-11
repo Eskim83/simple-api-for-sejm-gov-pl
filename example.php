@@ -1,6 +1,6 @@
 <?php
 
-include_once "Sejm\Client.php";
+include_once "Sejm/Client.php";
 
 $client = new Sejm\Client();
 
